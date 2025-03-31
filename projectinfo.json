@@ -1,0 +1,7 @@
+{
+  "name": "UplayAccountLookup",
+  "description": "A tool that uses the public APIs provided by ubisoft to get any ubisoft users linked accounts.",
+  "image": "/logo.png",
+  "url": "https://github.com/YodaForce157/UplayAccountLookup",
+  "tags": ["Python", "API"]
+}
